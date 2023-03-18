@@ -1,10 +1,10 @@
-# Exercicio3ComposicaoJava
+# Exercicio2ComposicaoJava
 >### Status: Finished ✔️
 
 ---
 
 >## SOBRE ❓
-> Exercicio para exercitar a programação orientada a objeto utilizando os conceitos de classes, atributos, métodos, objetos, construtores, encapsulamento, tipos enumerados e listas.<br><br>
+> Exercicio para exercitar a programação orientada a objeto utilizando os conceitos de classes, atributos, métodos, objetos, construtores, encapsulamento, tipos enumerados, listas, StringBuilder e etc.<br><br>
 
 ---
 
@@ -13,12 +13,16 @@
 ## Enunciado 
 
 
-<img src="https://github.com/Leothurm/Exercicio3ComposicaoJava/blob/main/img/exercicioJava.PNG">
+<img src="https://github.com/Leothurm/Exercicio2ComposicaoJava/blob/main/img/Enunciado.PNG">
+
+## Output
+
+<img src="https://github.com/Leothurm/Exercicio2ComposicaoJava/blob/main/img/Output.PNG">
 
 
 ## Estrutura
 
-<img src="https://github.com/Leothurm/Exercicio3ComposicaoJava/blob/main/img/EstruturaArquivo.PNG">
+<img src="https://github.com/Leothurm/Exercicio2ComposicaoJava/blob/main/img/Estrutura.PNG">
 
 </div>
 
